@@ -10,7 +10,7 @@
 - Navigation ist konsistent und intuitiv
 - Website ist mit semantisch korrektem HTML geschrieben
 - Alle Bilder haben ein sprechendes und aussagekräftiges alt-Attribut
-- Jede Seite der Website hat einen korrekten Titel (<title> Attribut)
+- Jede Seite der Website hat einen korrekten Titel (title Attribut)
 - Formulare verfügen über korrekte Auszeichnungen, Labels und Fehlermeldungen (beispielsweise im Kontaktformular)
 - Website funktioniert auf allen Displays (Mobil und Desktop)
 - Website ist nach den gängigen W3C-Standards geschrieben. Markup Validation, CSS Validation, Unicorn - Der Einheitsvalidator des W3C
