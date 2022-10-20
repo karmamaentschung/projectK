@@ -8,7 +8,7 @@ x Namen und Logo für das Unternehmen vorhanden
 
 x Sitemap mit mindestens 3 Unterseiten in einer Excel Tabelle festgehalten
 
-- Layout der Website (Wireframe) für Mobile und Desktop definiert
+x Layout der Website (Wireframe) für Mobile und Desktop definiert
 
 - Navigation ist konsistent und intuitiv
 
@@ -22,8 +22,7 @@ x Jede Seite der Website hat einen korrekten Titel (title Attribut)
 
 - Website funktioniert auf allen Displays (Mobil und Desktop)
 
-- Website ist nach den gängigen W3C-Standards geschrieben. Markup Validation, CSS Validation, Unicorn - Der Einheitsvalidator des W3C
+x Website ist nach den gängigen W3C-Standards geschrieben. Markup Validation, CSS Validation, Unicorn - Der Einheitsvalidator des W3C
 
-- Projekt in einem Softwareverwaltungssystem abgelegt. Änderungen regelmässig gesichert.
+x Projekt in einem Softwareverwaltungssystem abgelegt. Änderungen regelmässig gesichert.
 
-- Umfang entspricht der verfügbaren Zeit
