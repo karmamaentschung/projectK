@@ -18,7 +18,7 @@ x | Navigation ist konsistent und intuitiv
 
 x | Website ist mit semantisch korrektem HTML geschrieben
 
-- | Alle Bilder haben ein sprechendes und aussagekräftiges alt-Attribut
+x | Alle Bilder haben ein sprechendes und aussagekräftiges alt-Attribut
 
 x | Jede Seite der Website hat einen korrekten Titel (title Attribut)
 
