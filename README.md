@@ -22,7 +22,7 @@ x | Website ist mit semantisch korrektem HTML geschrieben
 
 x | Jede Seite der Website hat einen korrekten Titel (title Attribut)
 
-- | Formulare verfügen über korrekte Auszeichnungen, Labels und Fehlermeldungen (beispielsweise im Kontaktformular)
+x | Formulare verfügen über korrekte Auszeichnungen, Labels und Fehlermeldungen (beispielsweise im Kontaktformular)
 
 x | Website funktioniert auf allen Displays (Mobil und Desktop)
 
