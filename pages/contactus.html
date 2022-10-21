@@ -47,32 +47,33 @@
                 </ul>
             </div>
         </div>
-      </nav>
-  </div>
-  <br>    
+     </nav><br>    
     <div class="h1 text-center text-light">Need help? Contact us!</div>
     <br>
-    <div class="container">
+    <!--Flexbox Integration-->
+    <div class="container d-flex justify-content-center">
         <div class="row">
             <!--Contact Image-->
             <div class="col">
-                <img src="https://images.unsplash.com/photo-1663743629963-6301379e8824?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80" alt="Contact Image">
+                <img width="400px" src="https://images.unsplash.com/photo-1663743629963-6301379e8824?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=686&q=80" alt="Contact Image">
             </div>
             <!--Contact Form-->
-            <div class="col">
-                <div class="mb-3">
+            <div class="col bg-light bg-opacity-25 rounded-4 d-flex align-items-center justify-content-center">
+              <form action="https://www.freecodecamp.com/email-submit" name="email">
+                <div class="container d-flex flex-column align-items-center">
+                  <div class="row">
                     <label for="exampleFormControlInput1" class="form-label text-light">Enter Email Address</label>
-                    <input type="email" name="email"class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+                  </div>
+                  <div class="row">
+                    <input id="email" type="email" placeholder="Enter your email adress..." required>
+                  </div>
+                  <input id="submit" type="submit" value="Send" class="btn bg-light">
                 </div>
-                <div class="mb-3">
-                    <label for="exampleFormControlTextarea1" class="form-label text-light">Enter Message</label>
-                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" style="height: 140px;"></textarea>
-                    <br>
-                    <input type="button" value="Send">
-                </div>
+              </form>
             </div>
         </div>
     </div>
+    <!--Footer-->
     <footer class="footer bg-black">
         <div class="content has-text-centered">
           <div class="container text-center fixed-bottom">
